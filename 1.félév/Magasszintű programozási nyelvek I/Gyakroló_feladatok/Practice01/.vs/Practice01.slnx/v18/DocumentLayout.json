@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norbe\\Desktop\\MATE_FOSZK\\1.f\u00E9l\u00E9v\\Magasszint\u0171 programoz\u00E1si nyelvek I\\Gyakrol\u00F3_feladatok\\Practice01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C823D1-A0AE-3C49-D24C-128C430F7268}|Practice01\\Practice01.csproj|c:\\users\\norbe\\desktop\\mate_foszk\\1.f\u00E9l\u00E9v\\magasszint\u0171 programoz\u00E1si nyelvek i\\gyakrol\u00F3_feladatok\\practice01\\practice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C823D1-A0AE-3C49-D24C-128C430F7268}|Practice01\\Practice01.csproj|solutionrelative:practice01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\norbe\\Desktop\\MATE_FOSZK\\1.f\u00E9l\u00E9v\\Magasszint\u0171 programoz\u00E1si nyelvek I\\Gyakrol\u00F3_feladatok\\Practice01\\Practice01\\Program.cs",
+              "RelativeDocumentMoniker": "Practice01\\Program.cs",
+              "ToolTip": "C:\\Users\\norbe\\Desktop\\MATE_FOSZK\\1.f\u00E9l\u00E9v\\Magasszint\u0171 programoz\u00E1si nyelvek I\\Gyakrol\u00F3_feladatok\\Practice01\\Practice01\\Program.cs",
+              "RelativeToolTip": "Practice01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:26:17.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
